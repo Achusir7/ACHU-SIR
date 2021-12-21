@@ -1,6 +1,6 @@
 const petik = '```'
 
-const dtod = "919947291867@s.whatsapp.net"
+const dtod = "918590284271@s.whatsapp.net"
 const help = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss) => {
 	return`
 ┌───〔 ɪɴғᴏʀᴍᴀᴛɪᴏɴ 〕
@@ -37,7 +37,7 @@ const help = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc,
 }
 const convert = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ 〕
@@ -53,7 +53,7 @@ const convert = (prefix) => {
 }
 const download = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ 〕
@@ -69,7 +69,7 @@ const download = (prefix) => {
 }
 const allmenu = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ɪɴғᴏʀᴍᴀᴛɪᴏɴ 〕
@@ -195,7 +195,7 @@ const allmenu = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, m
 
 const maker = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴍᴀᴋᴇʀ ᴍᴇɴᴜ 〕
@@ -210,7 +210,7 @@ const maker = (prefix) => {
 
 const other = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴏᴛʜᴇʀ ᴍᴇɴᴜ 〕
@@ -230,7 +230,7 @@ const other = (prefix) => {
 
 const ownermenu = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴏᴡɴᴇʀ ᴍᴇɴᴜ 〕
@@ -278,7 +278,7 @@ const ownermenu = (prefix) => {
 
 const storage = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 sᴛᴏʀᴀɢᴇ  ᴍᴇɴᴜ 〕
@@ -292,7 +292,7 @@ const storage = (prefix) => {
 
 const tag = (prefix) => {
 	return`
-┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
+┌───〔 *_ACHUSIR_* 〕
 ┊
 └───────────𔒝
 ┌───〔 ᴛᴀɢ  ᴍᴇɴᴜ 〕
