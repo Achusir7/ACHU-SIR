@@ -1,7 +1,7 @@
 {
-  "name": "Jarvis",
+  "name": "ACHU SIR",
   "version": "1.0.0",
-  "description": "AKSHAY",
+  "description": "ACHUSIR",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -56,15 +56,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparroo"
+    "url": "git+https://github.com/ACHUSIR"
   },
   "keywords": [
-    "jarvis"
+    "ACHUSIR"
   ],
-  "author": "AKSHAY",
+  "author": "ACHUSIR",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sparroo"
+    "url": "https://github.com/ACHU-SIR"
   },
-  "homepage": "https://github.com/sparroo"
+  "homepage": "https://github.com/ACHU-SIR"
 }
